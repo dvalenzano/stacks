@@ -23,4 +23,7 @@ To generate all the necessary stacks tags, I ran from shell [build_tags_Goo.sh](
 These output files then are saved as csv files.  
 On [19-Nov-2013.py](https://github.com/dvalenzano/Interactive-Sessions/blob/master/19-Nov-2013.py) I start generating the phenotype-genotype matrix. 
 
+###Converting phenotype-genotype data files into ped files
+File worked on [22-Nov-2013](https://github.com/dvalenzano/Interactive-Sessions/blob/master/22-Nov-2013)
+
 
