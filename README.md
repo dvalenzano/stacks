@@ -9,6 +9,8 @@ build_samples_5_1.sh
 build_samples_5_2.sh
 
 ##Check if any individuals sequenced on plate 5 were already sequenced in previous plates. 
-I then compare if the new plate (plate5) from Oregon, contains any previously sequenced individual. 
+I then compare if the new plate 
+>plate5 from Oregon
+contains any previously sequenced individual. 
 I did this with the following [this script](https://github.com/dvalenzano/Interactive-Sessions/blob/master/04-Sep-2013.py) for both cross G and cross AA
 
