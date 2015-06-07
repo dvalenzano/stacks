@@ -25,7 +25,8 @@ On [19-Nov-2013.py](https://github.com/dvalenzano/Interactive-Sessions/blob/mast
 
 ###Converting phenotype-genotype data files into ped files
 File worked on [22-Nov-2013](https://github.com/dvalenzano/Interactive-Sessions/blob/master/22-Nov-2013), where I removed F1 genotypes with less than 25% coverage.  
-Next, I excluded the markers with less than 20% coverage with [24-Nov-2014.py](https://github.com/dvalenzano/Interactive-Sessions/blob/master/24-Nov-2013.py)
+Next, I excluded the markers with less than 20% coverage with [24-Nov-2014.py](https://github.com/dvalenzano/Interactive-Sessions/blob/master/24-Nov-2013.py)  
+With [27-Nov-2014.py](https://github.com/dvalenzano/Interactive-Sessions/blob/master/27-Nov-2013.py) I split the ped file in family-ped files, and with [27-Nov-2013_2.py](https://github.com/dvalenzano/Interactive-Sessions/blob/master/27-Nov-2013_2.py) I developed a method to infer F1 genotype based on P0 and F2 genotypes, family by family. Importantly, *this method won't be used for the genome-evolution-survival QTL paper*
 
 
 
