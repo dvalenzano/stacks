@@ -24,6 +24,9 @@ These output files then are saved as csv files.
 On [19-Nov-2013.py](https://github.com/dvalenzano/Interactive-Sessions/blob/master/19-Nov-2013.py) I start generating the phenotype-genotype matrix. 
 
 ###Converting phenotype-genotype data files into ped files
-File worked on [22-Nov-2013](https://github.com/dvalenzano/Interactive-Sessions/blob/master/22-Nov-2013)
+File worked on [22-Nov-2013](https://github.com/dvalenzano/Interactive-Sessions/blob/master/22-Nov-2013), where I removed F1 genotypes with less than 25% coverage.  
+Next, I excluded the markers with less than 20% coverage with [24-Nov-2014.py](https://github.com/dvalenzano/Interactive-Sessions/blob/master/24-Nov-2013.py)
+
+
 
 
