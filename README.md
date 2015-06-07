@@ -13,5 +13,5 @@ I then compare if plate5 from Oregon contains any previously sequenced individua
 I did this with the following [this script](https://github.com/dvalenzano/Interactive-Sessions/blob/master/04-Sep-2013.py) for both cross G and cross AA.
 
 ##Build stacks tags
-To generate all the necessary stacks tags, I ran from shell [build_tags_Goo.sh](https://github.com/dvalenzano/stacks/blob/master/build_tags_Goo.sh)
+To generate all the necessary stacks tags, I ran from shell [build_tags_Goo.sh](https://github.com/dvalenzano/stacks/blob/master/build_tags_Goo.sh) and [build_tags_AAo.sh](https://github.com/dvalenzano/stacks/blob/master/build_tags_AAo.sh)
 
