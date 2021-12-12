@@ -1,8 +1,9 @@
-#stacks
-======
+# stacks. 
+
+======. 
 Here I will place all the commands required to run stacks from my vm
 
-###Demultiplexing:
+### Demultiplexing:
 First, I demultiplexed all the output files from the sequencher, using the provided barcodes.
 To do this, I use [build_samples_5_1.sh](https://github.com/dvalenzano/stacks/blob/master/build_samples_5_1.sh) and [build_samples_5_2.sh](https://github.com/dvalenzano/stacks/blob/master/build_samples_5_2.sh)
 
