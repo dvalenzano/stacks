@@ -1,4 +1,4 @@
-# Stacks 
+# Stacks - a software by Julian Catchen to handle RadTag data - notes on private use
   
 Here I will place all the commands required to run stacks from my vm
 
